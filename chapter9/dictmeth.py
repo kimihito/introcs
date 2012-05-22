@@ -12,4 +12,4 @@ scientists.update(temp)
 print 'update後:', scientists
 
 scientists.clear()
-print 'cleat後:', scientists
+print 'clear後:', scientists
